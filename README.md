@@ -1,0 +1,2 @@
+# proprietary_vendor_xiaomi
+拷贝自秋叶随风的米2代码
